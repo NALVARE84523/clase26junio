@@ -11,3 +11,24 @@ h1 {
 body {
     background-color: darkgrey;
 }
+
+.contenido{
+    margin: auto;
+    padding: 2%;
+    background-color: whitesmoke;
+    }
+
+.enlace {
+    margin-top:1%;
+    padding: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.footer{
+    margin: auto;
+    padding: 0.1em;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
