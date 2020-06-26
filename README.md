@@ -1,2 +1,4 @@
-# clase26junio
-merge
+# CLASE COLABORATIVA
+
+* Nelson Alvarez Roa
+* Maria Hidalgo
